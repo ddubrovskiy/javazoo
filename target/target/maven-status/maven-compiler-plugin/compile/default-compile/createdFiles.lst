@@ -1,0 +1,12 @@
+org\yourcompany\yourproject\care\Exhibitable.class
+Proj1.class
+org\yourcompany\yourproject\animals\Snake.class
+org\yourcompany\yourproject\animals\Lion.class
+org\yourcompany\yourproject\staff\Zookeeper.class
+org\yourcompany\yourproject\care\Cleanable.class
+org\yourcompany\yourproject\animals\Parrot.class
+org\yourcompany\yourproject\reports\ZooReportGenerator.class
+org\yourcompany\yourproject\care\Feedable.class
+org\yourcompany\yourproject\animals\Animal.class
+org\yourcompany\yourproject\care\MedicalCheckable.class
+org\yourcompany\yourproject\staff\Veterinarian.class
